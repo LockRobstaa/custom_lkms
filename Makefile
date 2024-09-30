@@ -1,6 +1,7 @@
 obj-m += lkm_helloworld_1_0.o
 obj-m += lkm_helloworld_1_1.o
 obj-m += lkm_helloworld_1_2.o
+obj-m += lkm_helloworld_1_3.o
 
 PWD := $(shell pwd)
 CC := gcc-13
